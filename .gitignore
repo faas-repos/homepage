@@ -1,1 +1,7 @@
+# local faas config that we don't want versioned
+
+# just no contains credentials to my dockerhub account
+credentials/* 
 template/*
+
+.env

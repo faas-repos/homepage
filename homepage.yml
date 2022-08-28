@@ -6,5 +6,5 @@ functions:
   homepage:
     lang: python3-http
     handler: ./homepage
-    image: containerRegistryUserName/homepage:latest
+    image: dlyoungerman/faas-homepage:latest
 
